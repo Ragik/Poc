@@ -33,6 +33,6 @@ Checked whether it is working.After that concentrated on designing.
 
   (npm install is for installing node modules)
 
-#Things that we implement if i have more time
+#Things that i implement if i have more time
 
   If i had some more time i may have concentrated on designing.Because i like desiging very much.
